@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'FS Elliot';
+    src: local('FS Elliot Regular'), local('FS-Elliot-Regular'),
+        url('FSElliotPro.woff2') format('woff2'),
+        url('FSElliotPro.woff') format('woff'),
+        url('FSElliotPro.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+  }

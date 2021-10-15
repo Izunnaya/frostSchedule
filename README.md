@@ -1,3 +1,3 @@
 # frostSchedule
 # My second frost project
-[Live Link]()
+[Live Link](https://izunnaya.github.io/frostSchedule/)

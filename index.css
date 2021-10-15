@@ -114,21 +114,21 @@ body {
 }
 .ellipse {
   position: absolute;
-  left: 908px;
+  left: 1062px;
   /* top: 0; */
   width: 41px;
   height: 82px;
-  margin-top: 25px;
+  margin-top: 20px;
   margin-left: 10px;
 }
 .arrow {
   position: absolute;
   width: 12px;
   height: 20px;
-  margin-top: 55px;
+  margin-top: 50px;
   margin-left: 23px;
   z-index: 10;
-  left: 908px;
+  left: 1062px;
   align-items: center;
 }
 h6 {
